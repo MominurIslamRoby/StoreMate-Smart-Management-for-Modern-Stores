@@ -1,6 +1,11 @@
-# 📦 StoreMate
+<p align="center">
+  <strong># 📦 StoreMate</strong>
+</p>
 
-### Smart Management for Modern Stores
+
+<p align="center">
+  <strong>### Smart Management for Modern Stores</strong>
+</p>
 
 <p align="center">
   <strong>A modern Store Management System (IMS) built with C# and .NET</strong>
