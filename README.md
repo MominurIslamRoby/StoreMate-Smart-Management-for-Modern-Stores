@@ -31,6 +31,9 @@
 
 📺 A complete step-by-step walkthrough of the software is available on YouTube:
 
+<img width="1280" height="720" alt="Black and Red Dynamic Bold World Affairs and News YouTube Thumbnail" src="https://github.com/user-attachments/assets/432ebe65-ff86-495a-8d8b-9a0ac0217b3e" />
+
+
 👉 **Watch the demo:** [https://youtu.be/2CtclPaCkEo?si=mQ9wSYGJLOAAXzFy](https://youtu.be/2CtclPaCkEo?si=mQ9wSYGJLOAAXzFy)
 
 ---
