@@ -1,21 +1,23 @@
-<p align="center">
-  <strong># 📦 StoreMate</strong>
-</p>
+<h1 align="center">📦 StoreMate</h1>
 
-
-<p align="center">
-  <strong>### Smart Management for Modern Stores</strong>
-</p>
+<h3 align="center">Smart Management for Modern Stores</h3>
 
 <p align="center">
-  <strong>A modern Store Management System (IMS) built with C# and .NET</strong>
+  A modern <strong>Store Management System (IMS)</strong> built with <strong>C#</strong> and <strong>.NET</strong>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-.NET-blue" />
   <img src="https://img.shields.io/badge/Platform-Windows-lightgrey" />
-  <img src="https://img.shields.io/badge/Status-Production%20Ready-success" />
+  <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen" />
 </p>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com/?lines=Inventory+%26+Sales+Management;Smart+Billing+with+QR+Codes;Professional+Store+Workflow&center=true&width=500&height=45"
+  />
+</p>
+
 
 ---
 
